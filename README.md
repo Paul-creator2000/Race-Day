@@ -1,6 +1,8 @@
 # Race-Day
 
-This is a program to regester runners for a race and give them instructions.
+This is a project from my full-stack engineering career path on codecademy.
+
+This program regesters runners for a race and gives them instructions.
 
 ## Disclaimer
 
